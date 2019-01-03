@@ -130,5 +130,5 @@ ssh_args = "-o StrictHostKeyChecking=yes -o UserKnownHostsFile=./ssh/known_hosts
 Execute `ansible-playbook`:
 
 ```bash
-$ docker run -v $PWD:/ansible ansible-playbook playbook.yml
+$ docker run -v $PWD:/ansible ansible-image:2.7.5 ansible-playbook playbook.yml
 ```
