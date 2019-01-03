@@ -1,0 +1,11 @@
+# Directory containing ssh config
+ssh
+ssh_config
+known_hosts
+id_rsa
+id_rsa.pub
+
+# Ansible config files
+ansible.cfg
+hosts
+inventory
