@@ -6,7 +6,8 @@ language: c
 
 branches:
   only:
-    - /^([0-9.]+)(-\w+)?$/
+    #- /^([0-9.]+)(-\w+)?$/
+    - /.*/
 
 services:
   - docker
