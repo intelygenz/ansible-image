@@ -1,4 +1,4 @@
-OWNER=alpiquero
+OWNER=intelygenz
 IMAGE_NAME=ansible
 IMAGE_VERSION=$(TRAVIS_TAG)
 QNAME=$(OWNER)/$(IMAGE_NAME)
