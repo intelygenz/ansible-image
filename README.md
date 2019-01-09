@@ -1,8 +1,13 @@
 # Ansible Image
 Ansible Docker Image
 
+
+[![](https://images.microbadger.com/badges/image/intelygenz/ansible.svg)](https://microbadger.com/images/intelygenz/ansible "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/intelygenz/ansible.svg)](https://microbadger.com/images/intelygenz/ansible "Get your own version badge on microbadger.com")
+
+
 ## Getting Started
-We considered the [official ansible docker image](https://hub.docker.com/u/ansible/) does not work as expected and there are no official images based on the alpine docker image. So we opted to create our docker image.
+
+There are no official Ansible images based on the alpine docker image. So we opted to create our own.
 
 You can build this docker image locally by following the instructions:
 
