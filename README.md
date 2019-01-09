@@ -2,7 +2,7 @@
 Ansible Docker Image
 
 
-[![](https://images.microbadger.com/badges/image/intelygenz/ansible.svg)](https://microbadger.com/images/intelygenz/ansible "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/intelygenz/ansible.svg)](https://microbadger.com/images/intelygenz/ansible "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/intelygenz/ansible.svg)](https://microbadger.com/images/intelygenz/ansible "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/intelygenz/ansible.svg)](https://microbadger.com/images/intelygenz/ansible "Get your own version badge on microbadger.com") [![Build Status](https://travis-ci.com/intelygenz/ansible-image.svg?branch=master)](https://travis-ci.com/intelygenz/ansible-image)
 
 
 
