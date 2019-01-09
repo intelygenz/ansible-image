@@ -5,6 +5,14 @@ Ansible Docker Image
 [![](https://images.microbadger.com/badges/image/intelygenz/ansible.svg)](https://microbadger.com/images/intelygenz/ansible "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/intelygenz/ansible.svg)](https://microbadger.com/images/intelygenz/ansible "Get your own version badge on microbadger.com")
 
 
+
+## Supported tags and respective Dockerfile links
+
+All versions are generated using a unique [Dockerfile](https://github.com/intelygenz/serverless/blob/master/Dockerfile) what is located at [Intelygenz's Serverless GitHub repository](https://github.com/intelygenz/serverless)
+
+* [2.5](https://github.com/ansible-image/releases/tag/v2.5): [Dockerfile](https://github.com/intelygenz/ansible-image/blob/master/Dockerfile)
+
+
 ## Getting Started
 
 There are no official Ansible images based on the alpine docker image. So we opted to create our own.
