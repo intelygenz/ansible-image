@@ -10,7 +10,7 @@ Ansible Docker Image
 
 All versions are generated using a unique [Dockerfile](https://github.com/intelygenz/serverless/blob/master/Dockerfile) what is located at [Intelygenz's Serverless GitHub repository](https://github.com/intelygenz/serverless)
 
-* [2.5](https://github.com/ansible-image/releases/tag/v2.5): [Dockerfile](https://github.com/intelygenz/ansible-image/blob/master/Dockerfile)
+* [2.5](https://github.com/intelygenz/ansible-image/releases/tag/2.5): [Dockerfile](https://github.com/intelygenz/ansible-image/blob/master/Dockerfile)
 
 
 ## Getting Started
