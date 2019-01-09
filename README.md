@@ -13,6 +13,7 @@ All versions are generated using a unique [Dockerfile](https://github.com/intely
 * [2.5](https://github.com/intelygenz/ansible-image/releases/tag/2.5): [Dockerfile](https://github.com/intelygenz/ansible-image/blob/master/Dockerfile)
 * [2.5.0](https://github.com/intelygenz/ansible-image/releases/tag/2.5.0): [Dockerfile](https://github.com/intelygenz/ansible-image/blob/master/Dockerfile)
 * [2.5.14](https://github.com/intelygenz/ansible-image/releases/tag/2.5.14): [Dockerfile](https://github.com/intelygenz/ansible-image/blob/master/Dockerfile)
+* [2.6.0](https://github.com/intelygenz/ansible-image/releases/tag/2.6.0): [Dockerfile](https://github.com/intelygenz/ansible-image/blob/master/Dockerfile)
 
 
 ## Getting Started
