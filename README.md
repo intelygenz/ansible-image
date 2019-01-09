@@ -19,7 +19,7 @@ docker build --build-arg ANSIBLE_VERSION=2.5.0 -t ansible-image:local .
 
 Once the image is built, we will have in our premises an image whose name will be: `ansible-image:local`.
 
-**Takes note that to build the ansible docker image the version of ansible to be built is passed to it as a building argument.**
+**Take note that to build the Ansible docker image the version of ansible to be built is passed to it as a building argument.**
 
 ### Running the tests
 We can test run an Ansible dummy command to verify that the image has been successfully constructed.
