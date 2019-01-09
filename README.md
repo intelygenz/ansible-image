@@ -163,7 +163,7 @@ View [license information](https://github.com/intelygenz/ansible-image/blob/mast
 
 ### Issues
 
-If you have any problems with or questions about this image, please contact us through a [GitHub issue](https://github.com/intelygenz/ansible-images/issues).
+If you have any problems with or questions about this image, please contact us through a [GitHub issue](https://github.com/intelygenz/ansible-image/issues).
 
 ### Contributing
 
