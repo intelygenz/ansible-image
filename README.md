@@ -86,7 +86,7 @@ The example above assumes that all ansible config, inventory and ssh needed file
 
 Notice that provide a valid `known_hosts` file is mandatory in order to use ansible option `-k`, `--ask-pass` because *sshpass* is uncompatible with manual host key checking when `host_key_checking` is set to **True**.
 
-The use of `-it` options are necessary when a ssh key passphrase is asked.
+The use of `-it` options is necessary when a ssh key passphrase is asked.
 
 ```bash
 $ docker run -it --rm -v $PWD:/ansible ansible-image:2.7.5 ansible -m setup <my_host>
